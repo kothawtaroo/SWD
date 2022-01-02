@@ -1,1 +1,2 @@
 san kyi tar
+thi is git command test
